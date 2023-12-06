@@ -1,0 +1,181 @@
+"","class","tattoos","sleep","smoke","music","shoesize","piercing","residentialpref","number","cannabis","vape","tobacco","heightcm","heightin"
+"1","Sophomore",1,6.5,"No.","Rock",6,8,"Rural (Small town)",4,FALSE,FALSE,FALSE,157.48,62
+"2","Senior",4,7,"Yes\, cannabis.","Hip hop",9.6,0,"Suburban",7,TRUE,FALSE,FALSE,177,70
+"3","Sophomore",0,7.5,"Yes, cannabis.","Hip hop",7,0,"Suburban",2,TRUE,FALSE,FALSE,155,61.0236220472441
+"4","Sophomore",0,8,"Yes, cannabis.","Rock",7.5,0,"Suburban",8,TRUE,FALSE,FALSE,167.64,66
+"5","Senior",0,4,"Yes\, vapes.,Yes\, tobacco/cigarettes.","Electronic",8,2,"Urban/City",8,FALSE,TRUE,TRUE,165,65
+"6","Sophomore",0,6.5,"No.","Country",7.5,5,"Rural (Small town)",7,FALSE,FALSE,FALSE,170.18,67
+"7","Sophomore",1,7,"No.","Rock",8.5,4,"Suburban",8,FALSE,FALSE,FALSE,180.34,71
+"8","Senior",2,7,"Yes\, cannabis.","Rock",8.5,2,"Urban/City",9,TRUE,FALSE,FALSE,172.72,68
+"9","Freshman",0,8,"No.","Pop",8,0,"Urban",5,FALSE,FALSE,FALSE,160.02,63
+"10","Junior",0,6.5,"No.","Hip hop",6.5,2,"Suburban",7.3,FALSE,FALSE,FALSE,165,64.9606299212598
+"11","Sophomore",0,6.5,"No.","Pop",12,0,"Suburban",1.5,FALSE,FALSE,FALSE,182.88,72
+"12","Senior",0,8,"No.","Pop",8,2,"Suburban",10,FALSE,FALSE,FALSE,165.1,65
+"13","Sophomore",1,8,"Yes, cannabis.","Other",8,11,"Suburban",4,TRUE,FALSE,FALSE,160.02,63
+"14","Junior",0,8,"No.","Hip hop",9,0,"Rural (Small town)",8,FALSE,FALSE,FALSE,175,68.8976377952756
+"15","Sophomore",1,8,"No.","Country",6,2,"Rural (Small town)",5,FALSE,FALSE,FALSE,160,62.992125984252
+"16","Sophomore",0,6.5,"No.","Hip hop",8.5,0,"Rural (Small town)",8,FALSE,FALSE,FALSE,167.64,66
+"17","Sophomore",0,7,"Yes\, cannabis.","Hip hop",7.5,3,"Urban/City",7,TRUE,FALSE,FALSE,162.56,64
+"18","Junior",0,6,"No.","Pop",8.5,4,"Urban",5.17,FALSE,FALSE,FALSE,172.72,68
+"19","Senior",0,7,"No.","Pop",11,0,"Urban/City",2,FALSE,FALSE,FALSE,177.8,70
+"20","Sophomore",0,6,"No.","Indie",8.5,2,"Suburban",7,FALSE,FALSE,FALSE,162.56,64
+"21","Sophomore",0,7,"No.","Pop",9,4,"Urban/City",7,FALSE,FALSE,FALSE,170.18,67
+"22","Freshman",0,8,"No.","Hip hop",8,2,"Urban/City",7,FALSE,FALSE,FALSE,168,66
+"23","Sophomore",0,8,"No.","Country",9,2,"Suburban",9.78,FALSE,FALSE,FALSE,158.4,62.3622047244095
+"24","Sophomore",0,7,"No.","Pop",7,4,"Urban",4,FALSE,FALSE,FALSE,154.94,61
+"25","Sophomore",0,6.5,"No.","Rock",5.5,5,"Rural (Small town)",3,FALSE,FALSE,FALSE,162,63.7795275590551
+"26","Senior",5,7.5,"No.","Other",9,0,"Suburban",10,FALSE,FALSE,FALSE,170,66.9291338582677
+"27","Junior",0,7,"No.","Electronic",11,0,"Suburban",9,FALSE,FALSE,FALSE,182.88,72
+"28","Sophomore",0,6,"No.","Rock",6.5,2,"Urban",7.1,FALSE,FALSE,FALSE,150,59.0551181102362
+"29","Junior",0,7,"No.","Hip hop",11,0,"Rural (Small town)",8,FALSE,FALSE,FALSE,190,74.8031496062992
+"30","Sophomore",1,7.5,"No.","Indie",7,7,"Urban",8,FALSE,FALSE,FALSE,162.56,64
+"31","Freshman",0,7.5,"No.","Pop",11,0,"Suburban",5,FALSE,FALSE,FALSE,182.88,72
+"32","Super Senior +",0,6.5,"No.","Pop",10.5,0,"Urban",5,FALSE,FALSE,FALSE,180.34,71
+"33","Sophomore",2,6,"No.","Other",8.5,8,"Very Rural (Woods/Desert)",5,FALSE,FALSE,FALSE,162.59,64.011811023622
+"34","Sophomore",0,6.5,"Yes, cannabis.","Indie",8,4,"Suburban",7.666,TRUE,FALSE,FALSE,162,63.7795275590551
+"35","Sophomore",0,7.5,"No.","Hip hop",7,5,"Suburban",9,FALSE,FALSE,FALSE,167.6,65.9842519685039
+"36","Senior",0,7,"Yes\, vapes.","Other",8.5,0,"Urban/City",7,FALSE,TRUE,FALSE,176.784,69.6
+"37","Sophomore",0,7,"No.","Other",8,0,"Suburban",3.3,FALSE,FALSE,FALSE,171.45,67.5
+"38","Senior",0,6,"Yes\, cannabis.,Yes\, vapes.,Yes\, tobacco/cigarettes.","Other",5,6,"Suburban",7.5,TRUE,TRUE,TRUE,161.29,63.5
+"39","Sophomore",1,6,"No.","Country",7,4,"Suburban",4.3,FALSE,FALSE,FALSE,165.1,65
+"40","Freshman",0,8,"No.","Hip hop",10,0,"Urban/City",6,FALSE,FALSE,FALSE,183,72
+"41","Senior",0,6,"No.","Pop",7,2,"Suburban",4,FALSE,FALSE,FALSE,154.94,61
+"42","Freshman",1,8,"No.","Pop",8,2,"Urban/City",6,FALSE,FALSE,FALSE,170,67
+"43","Sophomore",0,7.5,"No.","Pop",7,0,"Urban",7,FALSE,FALSE,FALSE,162.56,64
+"44","Senior",2,8.5,"Yes, cannabis.","Electronic",8,9,"Urban",2.2347,TRUE,FALSE,FALSE,170.2,67.007874015748
+"45","Senior",0,6.5,"No.","Rock",7.5,7,"Urban",9,FALSE,FALSE,FALSE,168.91,66.5
+"46","Junior",1,6.5,"Yes\, cannabis.,Yes\, vapes.,Yes\, tobacco/cigarettes.","Other",10,1,"Rural (Small town)",6,TRUE,TRUE,TRUE,188,74.0157480314961
+"47","Freshman",0,7.5,"No.","Rock",6,0,"Rural (Small town)",2,FALSE,FALSE,FALSE,160.02,63
+"48","Junior",0,8,"No.","Other",8.5,0,"Urban/City",2,FALSE,FALSE,FALSE,162.56,5.4
+"49","Sophomore",0,6,"No.","Classical",7,2,"Urban",8,FALSE,FALSE,FALSE,167,65.748031496063
+"50","Sophomore",0,7.5,"No.","Other",9,2,"Suburban",3,FALSE,FALSE,FALSE,177.8,70
+"51","Sophomore",0,5.5,"No.","Pop",7.5,2,"Urban",7,FALSE,FALSE,FALSE,154.94,61
+"52","Junior",0,7.5,"No.","Hip hop",8.5,0,"Urban/City",4,FALSE,FALSE,FALSE,170.18,67
+"53","Sophomore",0,8,"Yes, cannabis.","Indie",11,2,"Suburban",2,TRUE,FALSE,TRUE,179.8,70.7874015748032
+"54","Junior",0,7,"No.","Pop",9.5,0,"Suburban",7,FALSE,FALSE,FALSE,176,69.2913385826772
+"55","Junior",0,6,"No.","Indie",9,2,"Suburban",3.14,FALSE,FALSE,FALSE,167.64,66
+"56","Freshman",0,7.1,"No.","Pop",9,2,"Suburban",9,FALSE,FALSE,FALSE,175.26,69
+"57","Sophomore",0,6,"No.","Electronic",9.5,0,"Rural (Small town)",7,FALSE,FALSE,FALSE,172.72,68
+"58","Junior",1,8,"Yes\, cannabis.","Hip hop",10,2,"Urban/City",7,TRUE,FALSE,FALSE,182,72
+"59","Sophomore",0,7,"Yes\, cannabis.","Hip hop",11,0,"Suburban",3,TRUE,FALSE,FALSE,182.88,72
+"60","Sophomore",0,6,"No.","Hip hop",12,1,"Rural (Small town)",9,FALSE,FALSE,FALSE,188.976,74.4
+"61","Junior",7,6.5,"No.","Other",7,6,"Suburban",7,FALSE,FALSE,FALSE,157.48,62
+"62","Freshman",0,5,"No.","Rock",7,2,"Urban",7,FALSE,FALSE,FALSE,165,64.9606299212598
+"63","Sophomore",1,7,"No.","Country",6.5,14,"Rural (Small town)",5,FALSE,FALSE,FALSE,157.48,62
+"64","Sophomore",0,8.5,"Yes, cannabis.","Hip hop",9,6,"Suburban",7,TRUE,FALSE,FALSE,172.88,68.0629921259843
+"65","Sophomore",1,7.5,"No.","Pop",7.5,1,"Urban",2.22,FALSE,FALSE,FALSE,167.64,66
+"66","Sophomore",0,7.5,"No.","Pop",6,5,"Rural (Small town)",7,FALSE,FALSE,FALSE,158.496,62.4
+"67","Freshman",0,8,"No.","Other",10.5,0,"Suburban",7,FALSE,FALSE,FALSE,177.8,70
+"68","Sophomore",0,7,"No.","Pop",5,0,"Suburban",3.14,FALSE,FALSE,FALSE,149.225,58.75
+"69","Senior",0,7.5,"No.","Pop",7,0,"Urban",7,FALSE,FALSE,FALSE,167.64,66
+"70","Sophomore",0,6.5,"No.","Other",8,2,"Suburban",7,FALSE,FALSE,FALSE,162.56,64
+"71","Sophomore",0,7.5,"No.","Hip hop",10,0,"Rural (Small town)",7,FALSE,FALSE,FALSE,170.18,67
+"72","Junior",0,8,"No.","Indie",8,0,"Urban",7,FALSE,FALSE,FALSE,175,68.8976377952756
+"73","Sophomore",0,6,"Yes, cannabis.","Indie",8,0,"Rural (Small town)",7,TRUE,FALSE,FALSE,162.56,64
+"74","Sophomore",0,7,"Yes, cannabis.","Electronic",11,0,"Rural (Small town)",10,TRUE,FALSE,FALSE,182.88,72
+"75","Sophomore",0,6.5,"No.","Hip hop",8.5,5,"Suburban",7,FALSE,FALSE,FALSE,172.08,67.748031496063
+"76","Freshman",0,6.5,"No.","Indie",9,0,"Suburban",3,FALSE,FALSE,FALSE,172.72,68
+"77","Junior",0,11,"No.","Electronic",6.5,1,"Rural (Small town)",7,FALSE,FALSE,FALSE,158,62.2
+"78","Sophomore",0,6.5,"No.","Other",9,7,"Rural (Small town)",3,FALSE,FALSE,FALSE,162.56,64
+"79","Freshman",0,8.5,"No.","Hip hop",10.5,0,"Rural (Small town)",6,FALSE,FALSE,FALSE,172.72,68
+"80","Sophomore",1,6,"No.","Pop",7,2,"Suburban",2,FALSE,FALSE,FALSE,157.5,62.007874015748
+"81","Sophomore",0,6.5,"No.","Rock",8.5,4,"Suburban",4.44,FALSE,FALSE,FALSE,165.0999,64.9999606299213
+"82","Sophomore",3,6,"No.","Hip hop",10.5,0,"Urban",6,FALSE,FALSE,FALSE,172.2,67.7952755905512
+"83","Freshman",0,7,"No.","Pop",11,0,"Urban/City",2,FALSE,FALSE,FALSE,172.72,68
+"84","Sophomore",0,6,"Yes, cannabis.","Hip hop",10.5,0,"Suburban",5,TRUE,FALSE,TRUE,182.88,72
+"85","Sophomore",0,7.5,"No.","Other",9.5,0,"Rural (Small town)",6.9,FALSE,FALSE,FALSE,162.5,63.9763779527559
+"86","Sophomore",0,7.5,"No.","Pop",8,0,"Urban",5,FALSE,FALSE,FALSE,180,70.8661417322835
+"87","Sophomore",0,5.5,"No.","Pop",8.5,0,"Suburban",5,FALSE,FALSE,FALSE,172,67.7165354330709
+"88","Sophomore",0,7,"No.","Pop",9.5,0,"Suburban",6,FALSE,FALSE,FALSE,180,70.8661417322835
+"89","Sophomore",0,7,"Yes\, cannabis.","Hip hop",11,1,"Urban/City",0,TRUE,FALSE,FALSE,185.42,73
+"90","Freshman",0,7,"No.","Electronic",6.5,0,"Urban",4,FALSE,FALSE,FALSE,163,64.1732283464567
+"91","Sophomore",0,6,"No.","Pop",6,0,"Suburban",3,FALSE,FALSE,FALSE,152.4,60
+"92","Sophomore",2,8,"Yes, cannabis.","Hip hop",8,3,"Urban",7,TRUE,FALSE,TRUE,155,61.0236220472441
+"93","Senior",0,8,"No.","Pop",8,2,"Urban/City",2,FALSE,FALSE,FALSE,170.6,67.165
+"94","Freshman",0,6,"No.","Pop",5,0,"Suburban",7,FALSE,FALSE,FALSE,155,61.0236220472441
+"95","Junior",0,6,"No.","Hip hop",8,5,"Urban",4,FALSE,FALSE,FALSE,162.56,64
+"96","Super Senior+",0,6,"No.","Pop",10,0,"Rural (small town)",2,FALSE,FALSE,FALSE,182.88,72
+"97","Sophomore",0,5.5,"No.","Classical",7.5,6,"Suburban",7.6,FALSE,FALSE,FALSE,157.48,62
+"98","Junior",0,6.5,"No.","Pop",7,3,"Urban",7,FALSE,FALSE,FALSE,160.02,63
+"99","Sophomore",1,7.4,"No.","Other",8.5,2,"Urban",9,FALSE,FALSE,FALSE,170.02,66.9370078740157
+"100","Sophomore",1,8,"Yes, cannabis.","Country",8.5,9,"Rural (Small town)",8,TRUE,FALSE,FALSE,160,62.992125984252
+"101","Junior",0,7.5,"No.","Hip hop",8.5,2,"Urban",5,FALSE,FALSE,FALSE,162.56,64
+"102","Sophomore",1,7.5,"Yes\, cannabis.,Yes\, vapes.,Yes\, tobacco/cigarettes.","Indie",10,0,"Urban",9.25,TRUE,TRUE,TRUE,188.22,74.1023622047244
+"103","Sophomore",0,6.5,"Yes\, cannabis.","Hip hop",11.5,2,"Urban/City",2,TRUE,FALSE,FALSE,184,72
+"104","Junior",0,7,"Yes, cannabis.","Other",7,6,"Suburban",7.5,TRUE,FALSE,FALSE,157.48,62
+"105","Sophomore",1,6.3,"Yes, cannabis.","Other",6.5,3,"Rural (Small town)",1,TRUE,FALSE,FALSE,152.4,60
+"106","Junior",0,8,"No.","Indie",8,11,"Urban",6,FALSE,FALSE,FALSE,165.1,65
+"107","Sophomore",0,8.1,"No.","Pop",8.5,2,"Rural (Small town)",5,FALSE,FALSE,FALSE,183,72.0472440944882
+"108","Senior",0,7,"No.","Hip hop",8.5,3,"Urban/City",9,FALSE,FALSE,FALSE,167.64,66
+"109","Sophomore",0,8,"No.","Hip hop",13,0,"Rural (Small town)",8,FALSE,FALSE,FALSE,183,72.0472440944882
+"110","Sophomore",0,9,"No.","Rock",10,0,"Suburban",7,FALSE,FALSE,FALSE,182.88,72
+"111","Junior",0,6.5,"No.","Country",7,1,"Rural (Small town)",2,FALSE,FALSE,FALSE,165.09,64.996062992126
+"112","Junior",0,8.25,"No.","Rock",8.5,2,"Urban",3.1416,FALSE,FALSE,FALSE,166.37,65.5
+"113","Junior",0,8,"No.","Pop",8,0,"Very rural (woods/desert)",7,FALSE,FALSE,FALSE,175,69
+"114","Sophomore",0,7.5,"Yes, cannabis.","Other",8,5,"Urban",3,TRUE,FALSE,FALSE,170.18,67
+"115","Sophomore",1,7,"No.","Country",6,4,"Urban",6,FALSE,FALSE,FALSE,154.4,60.7874015748031
+"116","Sophomore",0,7.5,"No.","Electronic",7,0,"Suburban",4,FALSE,FALSE,FALSE,165.1,65
+"117","Freshman",0,9,"No.","Rock",10,0,"Urban/City",4,FALSE,FALSE,FALSE,195,77
+"118","Senior",2,7,"Yes, cannabis.","Hip hop",8,2,"Suburban",7,TRUE,FALSE,FALSE,162.56,64
+"119","Sophomore",0,6,"No.","Pop",6,2,"Suburban",6,FALSE,FALSE,FALSE,157.48,62
+"120","Junior",0,6.5,"No.","Indie",7,4,"Urban",5,FALSE,FALSE,FALSE,157.48,62
+"121","Sophomore",0,7.8,"No.","Hip hop",7.5,3,"Suburban",2.123,FALSE,FALSE,FALSE,155.492,61.2173228346457
+"122","Sophomore",0,5.8234,"No.","Rock",8.5,2,"Suburban",7,FALSE,FALSE,FALSE,177.8,70
+"123","Freshman",0,7.5,"No.","Hip hop",6.5,0,"Rural (Small town)",7,FALSE,FALSE,FALSE,160,62.992125984252
+"124","Sophomore",0,4,"No.","Pop",11,0,"Suburban",4.29,FALSE,FALSE,FALSE,180.34,71
+"125","Sophomore",0,7.5,"No.","Hip hop",10,2,"Suburban",3.3,FALSE,FALSE,FALSE,165.1,65
+"126","Sophomore",0,6.5,"No.","Pop",8,2,"Suburban",2,FALSE,FALSE,FALSE,165,64.9606299212598
+"127","Sophomore",0,7.5,"Yes, cannabis.","Electronic",7.5,4,"Urban",1,TRUE,FALSE,FALSE,157.48,62
+"128","Sophomore",0,7,"No.","Pop",8,2,"Suburban",7.2,FALSE,FALSE,FALSE,162.56,64
+"129","Senior",0,5,"No.","Pop",9.5,3,"Urban/City",3,FALSE,FALSE,FALSE,170.18,67
+"130","Sophomore",0,6.5,"No.","Indie",7.5,7,"Suburban",7,FALSE,FALSE,FALSE,170.815,67.25
+"131","Senior",0,7,"Yes, cannabis.","Rock",12,2,"Suburban",7,TRUE,FALSE,FALSE,177.8,70
+"132","Senior",0,7,"No.","Pop",9,6,"Urban/City",6,FALSE,FALSE,FALSE,165.1,65
+"133","Sophomore",0,7,"Yes, cannabis.","Indie",9,3,"Urban",9,TRUE,FALSE,FALSE,175.26,69
+"134","Junior",0,7,"Yes\, cannabis.","Hip hop",9,0,"Urban/City",2,TRUE,FALSE,FALSE,147,58
+"135","Sophomore",0,7,"Yes\, cannabis.,Yes\, vapes.,Yes\, tobacco/cigarettes.","Hip hop",9,2,"Suburban",7.7987,TRUE,TRUE,TRUE,170.18,67
+"136","Freshman",0,6.5,"No.","Pop",7,2,"Rural (Small town)",7,FALSE,FALSE,FALSE,160,62.992125984252
+"137","Sophomore",0,7,"No.","Pop",9.5,2,"Suburban",3.1415,FALSE,FALSE,FALSE,170.18,67
+"138","Senior",0,7,"No.","Classical",6,2,"Suburban",7,FALSE,FALSE,FALSE,167,65.748031496063
+"139","Sophomore",0,6,"No.","Other",8.5,0,"Suburban",9,FALSE,FALSE,FALSE,160,62.992125984252
+"140","Freshman",0,7,"No.","Other",11,0,"Urban/City",1,FALSE,FALSE,FALSE,175.26,69
+"141","Sophomore",0,6,"No.","Other",5.5,2,"Suburban",7,FALSE,FALSE,FALSE,154.94,61
+"142","Sophomore",0,9,"No.","Hip hop",7.5,2,"Urban",6,FALSE,FALSE,FALSE,170,66.9291338582677
+"143","Senior",0,8,"No.","Other",7,2,"Urban/City",6,FALSE,FALSE,FALSE,162.56,64
+"144","Freshman",0,6.2,"No.","Pop",4.5,2,"Suburban",1.45,FALSE,FALSE,FALSE,157.48,62
+"145","Junior",0,9,"No.","Indie",8.5,0,"Urban",9,FALSE,FALSE,FALSE,168,66.1417322834646
+"146","Sophomore",0,6,"No.","Pop",7.5,2,"Very Rural (Woods/Desert)",5,FALSE,FALSE,FALSE,162.56,64
+"147","Sophomore",0,7,"No.","Classical",7,0,"Urban",0,FALSE,FALSE,FALSE,176,69.2913385826772
+"148","Sophomore",0,6,"Yes, cannabis.","Indie",7.5,3,"Rural (Small town)",7,TRUE,FALSE,FALSE,164.5,64.763779527559
+"149","Freshman",0,8,"No.","Other",5.5,5,"Urban",0,FALSE,FALSE,FALSE,171,67.3228346456693
+"150","Sophomore",0,7,"No.","Rock",9,2,"Suburban",4,FALSE,FALSE,FALSE,152.4,60
+"151","Sophomore",0,8,"No.","Pop",7.5,2,"Suburban",5,FALSE,FALSE,FALSE,165,64.9606299212598
+"152","Senior",0,8,"No.","Classical",11,0,"Urban/City",7,FALSE,FALSE,FALSE,183,72
+"153","Junior",0,7.5,"No.","Indie",7.5,5,"Urban",7,FALSE,FALSE,FALSE,172.72,68
+"154","Senior",0,7,"No.","Classical",10.5,0,"Urban",7,FALSE,FALSE,FALSE,172.72,68
+"155","Junior",0,6.5,"Yes, cannabis.","Rock",12,0,"Urban",5.7,TRUE,FALSE,FALSE,183,72.0472440944882
+"156","Sophomore",0,7,"Yes, cannabis.","Country",8,4,"Rural (Small town)",4,TRUE,FALSE,FALSE,160.02,63
+"157","Super Senior +",0,5,"No.","Rock",14,0,"Rural (Small town)",7,FALSE,FALSE,FALSE,187.93,73.988188976378
+"158","Sophomore",0,7,"No.","Country",9.5,2,"Rural (Small town)",3,FALSE,FALSE,FALSE,172.2,67.7952755905512
+"159","Junior",0,6.5,"Yes, cannabis.","Other",11.5,0,"Very Rural (Woods/Desert)",6,TRUE,FALSE,FALSE,182.88,72
+"160","Senior",5,8,"Yes\, cannabis.","Electronic",6,10,"Urban/City",1,TRUE,FALSE,FALSE,152.4,60
+"161","Sophomore",0,7.5,"Yes, tobacco.","Rock",6.5,0,"Rural (Small town)",7,FALSE,FALSE,FALSE,162,63.7795275590551
+"162","Super Senior+",0,7,"Yes\, cannabis.,Yes\, vapes.","Hip hop",10,0,"Suburban",2,TRUE,TRUE,FALSE,172.72,68
+"163","Sophomore",0,6.03,"No.","Other",7.5,4,"Suburban",5.2346,FALSE,FALSE,FALSE,160.04,63.007874015748
+"164","Junior",2,5,"No.","Pop",6,11,"Urban",9,FALSE,FALSE,FALSE,160.5,63.1889763779528
+"165","Sophomore",0,5.5,"Yes, cannabis.","Indie",7,5,"Rural (Small town)",6.56,TRUE,FALSE,FALSE,162.56,64
+"166","Freshman",0,4,"No.","Pop",8,2,"Suburban",7,FALSE,FALSE,FALSE,169.55,66.751968503937
+"167","Senior",0,6.5,"No.","Country",8,0,"Suburban",7,FALSE,FALSE,FALSE,161.925,63.75
+"168","Sophomore",0,8,"No.","Hip hop",6.5,7,"Suburban",7,FALSE,FALSE,FALSE,152.4,60
+"169","Junior",1,6.5,"No.","Pop",6.5,2,"Suburban",4.53,FALSE,FALSE,FALSE,164.592,64.8
+"170","Junior",10,6,"Yes\, cannabis.,Yes\, vapes.","Rock",9,10,"Urban/City",0,TRUE,TRUE,FALSE,177.8,70
+"171","Freshman",0,5,"No.","Classical",8.5,0,"Rural (Small town)",6,FALSE,FALSE,FALSE,161.5,63.5826771653543
+"172","Sophomore",0,6,"No.","Country",10,0,"Very Rural (Woods/Desert)",3.1416,FALSE,FALSE,FALSE,172.72,68
+"173","Junior",0,7,"Yes, cannabis.","Electronic",11,0,"Rural (Small town)",7,TRUE,FALSE,FALSE,182.88,72
+"174","Sophomore",0,7,"No.","Pop",7,2,"Suburban",8.37,FALSE,FALSE,FALSE,165,64.9606299212598
+"175","Sophomore",0,6.5,"No.","Indie",7.5,2,"Urban",8,FALSE,FALSE,FALSE,163,64.1732283464567
+"176","Super Senior+",0,6,"Yes\, vapes.","Hip hop",12,0,"Suburban",6,FALSE,TRUE,FALSE,180,71
+"177","Freshman",0,8,"No.","Pop",8.5,2,"Suburban",5,FALSE,FALSE,FALSE,167.64,66
+"178","Freshman",0,6,"No.","Country",7.5,2,"Rural (Small town)",2,FALSE,FALSE,FALSE,167.64,66
+"179","Sophomore",0,7,"No.","Electronic",7,2,"Suburban",7,FALSE,FALSE,FALSE,160,62.992125984252
+"180","Senior",0,8,"No.","Hip hop",12,0,"Very rural (forest/desert)",7,FALSE,FALSE,FALSE,186,73
